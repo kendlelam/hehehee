@@ -51,7 +51,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
 
-- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [X] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 - [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
