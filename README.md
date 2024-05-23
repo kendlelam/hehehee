@@ -45,7 +45,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## Two Pointers
 - [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [X] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
