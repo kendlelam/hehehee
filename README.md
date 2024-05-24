@@ -59,7 +59,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Happy Number](https://leetcode.com/problems/happy-number/)
 
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
