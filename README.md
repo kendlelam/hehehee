@@ -65,7 +65,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
