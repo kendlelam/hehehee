@@ -77,11 +77,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
-- [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
+- [X] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
-- [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [X] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [X] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## In-place Reversal of a Linked List
 
