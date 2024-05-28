@@ -87,7 +87,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [X] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
 - [ ] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
