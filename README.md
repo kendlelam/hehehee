@@ -115,19 +115,19 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
 
-- [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+- [X] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [X] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-- [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [X] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 ## Top K Elements
 
-- [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [X] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
-- [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+- [] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
 - [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
