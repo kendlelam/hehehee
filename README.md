@@ -137,7 +137,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
-- [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+- [X] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
 ## Modified Binary Search
 
